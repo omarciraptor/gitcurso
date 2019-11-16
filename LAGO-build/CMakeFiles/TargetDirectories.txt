@@ -1,0 +1,7 @@
+/home/omarciraptor/Escritorio/LAGO-Mexico/LAGO-build/CMakeFiles/install/strip.dir
+/home/omarciraptor/Escritorio/LAGO-Mexico/LAGO-build/CMakeFiles/edit_cache.dir
+/home/omarciraptor/Escritorio/LAGO-Mexico/LAGO-build/CMakeFiles/OpNovice.dir
+/home/omarciraptor/Escritorio/LAGO-Mexico/LAGO-build/CMakeFiles/rebuild_cache.dir
+/home/omarciraptor/Escritorio/LAGO-Mexico/LAGO-build/CMakeFiles/list_install_components.dir
+/home/omarciraptor/Escritorio/LAGO-Mexico/LAGO-build/CMakeFiles/install/local.dir
+/home/omarciraptor/Escritorio/LAGO-Mexico/LAGO-build/CMakeFiles/install.dir
